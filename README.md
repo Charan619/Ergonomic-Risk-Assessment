@@ -63,5 +63,3 @@ Start the server
 **Client:** Streamlit
 
 **Server:** Python, Tensorflow, OpenCV
-
-[Youtube Video Link](https://youtu.be/XdOY6CEzLEY)
