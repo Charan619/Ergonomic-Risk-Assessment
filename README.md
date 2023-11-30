@@ -1,8 +1,8 @@
-# Ergonomics and Emotion Monitoring
+# Ergonomics Risk Assessment
 
 An application developed to improve and notify users about incorrect **posture**. **Emotion** and **drowsiness** detection has been implemented using **transfer learning** to create a holistic workplace wellness app. This uses **MediaPipe** to detect posture and industry-standard **RULA**, **REBA** algorithms to detect imperfect posture. Leveraged **AWS Cognito** to implement authentication and to encrypt face recognition data. **AWS DynamoDB** has been utilised to handle emotion, drowsiness and posture data to generate workplace satisfaction report.
 
-In order to examine and reduce risks related to the ergonomics of a person's home workstation, this project intends to create an assessment tool. It guarantees that everyone can evaluate their posture and receive assistance in correcting it in order to avoid developing musculoskeletal disorders. Based on industry-standard ergonomics assessment procedures like Rapid Upper Limb Assessment (RULA) and Rapid Entire Body Assessment, this programme determines whether a person's posture is unsafe or not using live webcam video of them (REBA).
+In order to examine and reduce risks related to the ergonomics of a person's home workstation, this project intends to create an assessment tool. It guarantees that everyone can evaluate their posture and receive assistance in correcting it in order to avoid developing musculoskeletal disorders. Based on industry-standard ergonomics assessment procedures like Rapid Upper Limb Assessment (RULA) and Rapid Entire Body Assessment, this program determines whether a person's posture is unsafe or not using live webcam video of them (REBA).
 
 ## Emotion and Drowsiness analysis
 
