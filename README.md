@@ -63,3 +63,6 @@ Start the server
 **Client:** Streamlit
 
 **Server:** Python, Tensorflow, OpenCV
+
+<img width="962" height="874" alt="image" src="https://github.com/user-attachments/assets/6460a71a-bac9-47cb-b163-58550d428c80" />
+
