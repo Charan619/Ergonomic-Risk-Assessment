@@ -22,6 +22,7 @@ To ensure privacy, only your face will be tracked because live face tracking is 
 - Telegram based notification service to warn users about bad posture and drowsiness
 - Report generation based on accumulated data stored in DynamoDB
 
+<img width="962" height="874" alt="image" src="https://github.com/user-attachments/assets/6460a71a-bac9-47cb-b163-58550d428c80" />
 
 ## Run Locally
 
@@ -64,5 +65,7 @@ Start the server
 
 **Server:** Python, Tensorflow, OpenCV
 
-<img width="962" height="874" alt="image" src="https://github.com/user-attachments/assets/6460a71a-bac9-47cb-b163-58550d428c80" />
+
+<img width="1099" height="776" alt="image" src="https://github.com/user-attachments/assets/23b02aa6-03e6-480c-91e5-f3dbce1aa9fa" />
+
 
